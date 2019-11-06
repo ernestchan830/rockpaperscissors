@@ -8,4 +8,8 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
-
+$('#shoot').click(function() {
+  let inputValue = $('#input').val()
+  //console.log(inputValue)
+  $('#userChoice').text(inputValue)
+})
