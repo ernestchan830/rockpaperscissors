@@ -10,20 +10,20 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
 - [x] Fork this repository to your Github account and pull it down to Gitpod
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
 
 ### JavaScript
-- [ ] Add a click handler that displays the value of the input within a div
+- [x] Add a click handler that displays the value of the input within a div
 
 
 ### HTML and CSS
-- [ ] Add any more HTML elements you will need to the page
-- [ ] Customize your HTML with CSS
+- [x] Add any more HTML elements you will need to the page
+- [x] Customize your HTML with CSS
 
 #### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website using the link on the session agenda.
+- [x] Push your changes!
+- [x] Save and submit your website using the link on the session agenda.
 
 ## Day 2
 
